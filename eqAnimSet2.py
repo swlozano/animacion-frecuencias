@@ -4,7 +4,7 @@ import cv2
 import os
 
 # --- Configuración ---
-AUDIO_PATH = 'sounds/backfrom.mp3'
+AUDIO_PATH = 'sounds/kick.mp3'
 FPS = 24
 ANCHO, ALTO = 1280, 720
 CARPETA_FRAMES = 'frames'
