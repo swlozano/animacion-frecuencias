@@ -1,4 +1,4 @@
-# eqAnimSet 🎵🎞️
+# eqAnimSet
 
 Generador de **videos de ecualizador animado** a partir de un archivo de audio. El script analiza el audio por bandas de frecuencia (sub-bajo, bajo, medios y brillo) y, según la energía de cada banda en cada instante, reproduce un set de frames (imágenes) tipo GIF sincronizado con la música. Al final, se le pega el audio original al video generado.
 
@@ -101,4 +101,4 @@ Cada script:
 
 ## Licencia
 
-Este proyecto no incluye licencia definida. Agregá un archivo `LICENSE` según corresponda (MIT, GPL, etc.) antes de publicarlo si querés especificar los términos de uso.
+Este proyecto está bajo la licencia CC0 1.0 Universal (Creative Commons Zero). Esto significa que el autor renuncia a todos los derechos de autor sobre la obra en la medida permitida por la ley, dedicándola al dominio público: podés copiar, modificar, distribuir y usar este proyecto, incluso con fines comerciales, sin pedir permiso. Ver el archivo LICENSE para el texto completo.
